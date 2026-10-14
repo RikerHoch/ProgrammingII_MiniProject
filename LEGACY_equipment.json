@@ -1,0 +1,46 @@
+[
+  {
+    "ID": "EQ-001",
+    "type": "Microscope",
+    "location": "Lab A, Bench 3",
+    "status": "online",
+    "last_maintenance": "2024-02-18"
+  },
+  {
+    "item_id": "EQ-002",
+    "type": "Centrifuge",
+    "location": "Lab B, Bench 1",
+    "status": "offline",
+    "last_maintenance": "2023-12-05",
+    "notes": "Rotor imbalance detected."
+  },
+  {
+    "ID": "EQ-003",
+    "type": "pH Meter",
+    "location": "Lab A, Bench 2",
+    "status": true,
+    "last_maintenance": "2024-04-22"
+  },
+  {
+    "item_id": "EQ-004",
+    "type": "Autoclave",
+    "location": "Sterilization Room",
+    "status": false,
+    "last_maintenance": "2024-05-01",
+    "notes": "Needs pressure sensor calibration."
+  },
+  {
+    "ID": "EQ-005",
+    "type": "Magnetic Stirrer",
+    "location": "Lab A, Bench 3",
+    "status": "online",
+    "last_maintenance": "2024-07-15"
+  },
+  {
+    "equipment_id": "EQ-006",
+    "type": "Spectrophotometer",
+    "location": "Instrument Room",
+    "status": "online",
+    "last_maintenance_date": "2024-06-30"
+  }
+]
