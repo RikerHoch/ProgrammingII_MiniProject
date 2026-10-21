@@ -1,5 +1,6 @@
 # 🧪 Chemistry Inventory Management System
 
+
 **Assessment 2 — Mini Project**
 
 A Python-based inventory management application designed to modernise the University Chemistry Department's legacy inventory system by consolidating inconsistent reagent and laboratory equipment data into a unified, maintainable solution.
